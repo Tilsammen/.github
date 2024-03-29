@@ -1,4 +1,4 @@
-![Image](https://github.com/orgs/Tilsammen/projects/1/assets/103348713/699be0ce-e994-4f59-a1a2-2b28fb9899cf)
+![decorative banner](https://raw.githubusercontent.com/Tilsammen/.github/main/profile/banner.png)
 
 # About
 Welcome! We are Tilsammen - probably better known as the team behind the Younit project. Founded in 2023 alongside Younit itself, we're a collective who all have a passion for coding and want to develop our skills, as well as make life a little bit easier for ourselves - and hopefully others one day!
